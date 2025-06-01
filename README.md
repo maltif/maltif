@@ -24,3 +24,5 @@ DevOps automation, running Jenkins on Kubernetes, GitHub Actions self-hosted run
 
 > "Good DevOps is invisible - when everything works, no one should notice."
 
+![Visitors](https://komarev.com/ghpvc/?username=maltif&label=Visitors&color=blueviolet&style=flat-square)
+
