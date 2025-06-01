@@ -10,6 +10,8 @@ I’m a Staff DevOps Engineer with over a decade of hands-on experience designin
 **Current focus areas:**  
 DevOps automation, running Jenkins on Kubernetes, GitHub Actions self-hosted runners, Linux systems engineering, and cloud cost control.
 
+---
+
 - Currently I'm preparing for my long-awaited AWS DevOps Engineer - Professional exam.
 - Pronouces: he/him/his
 ---
