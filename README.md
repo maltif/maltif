@@ -13,7 +13,6 @@ DevOps automation, running Jenkins on Kubernetes, GitHub Actions self-hosted run
 ---
 
 - Currently I'm preparing for my long-awaited AWS DevOps Engineer - Professional exam.
-- Pronouces: he/him/his
 ---
 
 ### Projects & Writings
