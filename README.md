@@ -1,6 +1,6 @@
-# Hey, I’m Altif
+# Hey, I'm Altif
 
-I’m a Staff DevOps Engineer with over a decade of hands-on experience designing, automating, and optimizing systems that power engineering teams.
+I'm a Staff DevOps Engineer with over a decade of hands-on experience designing, automating, and optimizing systems that power engineering teams.
 
 - Strong focus on AWS, Terraform, Kubernetes, Jenkins, CI/CD pipelines, and Linux systems
 - Advocate for cost efficiency, observability, maintainability, and operational simplicity
