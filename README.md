@@ -12,7 +12,7 @@ DevOps automation, running Jenkins on Kubernetes, GitHub Actions self-hosted run
 
 ---
 
-- Currently I'm preparing for my long-awaited AWS DevOps Engineer - Professional exam.
+- Currently I'm preparing for my CKA+CKS re-certification exam.
 ---
 
 ### Projects & Writings
